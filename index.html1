@@ -1,0 +1,56 @@
+<html>
+<head>
+<body>
+<F1>CSS Style</F1>
+<F6>the css properties for tables and cells is increased over that in html2fpdf.<br> it includes recognition of thead, TH and allows property of background-colour <br> to be set for TR.See below for other facilities such  as aotosizing, ab=nd rotation.</F6>
+<table boder="n">
+<tr>
+<th>ROW 1</th>
+<th>This Is Data<br>This is data out of p<br><F1><b>THis is bold data p</F1></b><br><b>this is bold data out op p</b><br>This is normal data out of br <br><big></th>
+<th>This Is Data</th>
+</tr>
+<tr>
+<td>Row 2</td>
+<td>This is data p</td>
+<td>More data</td>
+</tr>
+<tr>
+<td>Row 3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</body>
+</head>
+</html>
+
